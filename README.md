@@ -1,6 +1,3 @@
-# Git-Practice--Yousef-Alzidaneen-
-# Git & GitHub Practice – [Your Name]
-
 ## 1. What is the difference between Git and GitHub?
 
 - **Git** is a version control system used locally to track changes in code.
